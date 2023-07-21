@@ -1,0 +1,9 @@
+apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
+kind: Accelerator
+metadata:
+  name: apptemplate01
+spec:
+  git:
+    url: https://github.com/gen-shun/apptemplate01/
+    ref:
+      branch: main
