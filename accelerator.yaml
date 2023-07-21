@@ -1,7 +1,7 @@
 accelerator:
   displayName: apptemplate01 Java Web App for Uvance
   description: A sample Spring Boot web application built with Tanzu supply-chain
-  iconUrl: https://raw.githubusercontent.com/gen-shun/apptemplate01/main/fujitsu.jpeg
+  iconUrl: https://raw.githubusercontent.com/gen-shun/apptemplate01/main/fujitsu.png
   tags:
   - java
   - spring
